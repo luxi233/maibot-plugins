@@ -1,0 +1,6 @@
+[submodule "plugins/maibot-platform-parser"]
+	path = plugins/maibot-platform-parser
+	url = https://github.com/luxi233/maibot-platform-parser
+[submodule "plugins/friend-request-handler"]
+	path = plugins/friend-request-handler
+	url = https://github.com/luxi233/friend-request-handler
